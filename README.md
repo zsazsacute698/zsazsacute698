@@ -1,12 +1,12 @@
 <!-- Banner Header -->
 <p align="center">
-  <img src="banner.png" alt="Pastel Banner" width="100%" style="border-radius:20px;" />
+  <img src="https://raw.githubusercontent.com/zsazsacute698/zsazsacute698/main/banner.png" alt="Pastel Banner" width="100%" style="border-radius:20px;" />
 </p>
 
 <h1 align="center">🌸 Hi there, I'm <span style="color:#a78bfa;">zsaezal</span> 🌸</h1>
 
 <p align="center">
-  <img src="zsaee.png" alt="zsaezal profile photo" width="200" style="border-radius:50%; box-shadow: 0px 0px 20px #fbcfe8;" />
+  <img src="https://raw.githubusercontent.com/zsazsacute698/zsazsacute698/main/zsaee.png" alt="zsaezal profile photo" width="200" style="border-radius:50%; box-shadow: 0px 0px 20px #fbcfe8;" />
 </p>
 
 ---
